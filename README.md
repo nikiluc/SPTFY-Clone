@@ -1,6 +1,6 @@
 # SPTFY-Clone
 A Spotify clone built to practice using React (and the Context API).
-Live: https://sptfy-clone.web.app/#
+Live: https://sptfy-clone.web.app/
 
 ## Launching the Application
 
